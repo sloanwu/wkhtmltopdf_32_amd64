@@ -1,0 +1,7 @@
+Rakefile
+bin/test.rb
+bin/wkhtmltopdf
+bin/wkhtmltopdf_darwin_386
+bin/wkhtmltopdf_linux_386
+bin/wkhtmltopdf_linux_amd64
+Manifest
